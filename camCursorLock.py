@@ -23,7 +23,7 @@ bl_info = {
     "blender": (2, 93, 0),
     "location": "View3D > Header",
     "description": "Toggle lock camera and/or cursor",
-    "category": "Object"
+    "category": "Object",
     "support": "COMMUNITY"      
 }
 
